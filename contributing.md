@@ -9,7 +9,7 @@ The **✨ Genshin Wish Simulator** is the most advanced and realistic wishing si
 
 <div align="center">
 
-[![Download Genshin Wish Simulator](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/genshin-wish-simulator)
+[![Download Genshin Wish Simulator](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/genshin-wish-simulator)
 
 </div>
 
@@ -107,7 +107,7 @@ Testing your luck on the real banner risks your primogems. You need a safe way t
 6. **🎯 Select Banner** — choose character or weapon banner
 7. **🎲 Start Wishing** — click Wish button
 
-[![Download Genshin Wish Simulator](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/genshin-wish-simulator)
+[![Download Genshin Wish Simulator](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/genshin-wish-simulator)
 
 ### Single Wish
 
@@ -209,7 +209,7 @@ Test your luck without spending Primogems. **Genshin Wish Simulator** lets you w
 
 <div align="center">
 
-[![Download Genshin Wish Simulator](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/genshin-wish-simulator)
+[![Download Genshin Wish Simulator](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/genshin-wish-simulator)
 
 **Version 4.6.1** — Wish simulator. Test your luck. Free forever.
 
